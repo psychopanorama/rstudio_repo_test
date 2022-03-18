@@ -12,4 +12,4 @@ library(tidyverse)
 
 List1 <- c(8, 4, 2, 9, 6, 5, 5, 5, 4, 7) # Changed last value from 8 to 7
 
-List2 <- c('a', 'x', 'd', 'y', 'p', 'r', 'o', 'q', 'u', 'w')
+List2 <- c('a', 'x', 'd', 'y', 'p', 'r', 'o', '7', '6', '5') # Changed last three string values
